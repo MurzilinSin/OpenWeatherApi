@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="text_input_margin_start">15dp</dimen>
+    <dimen name="text_input_margin_top">15dp</dimen>
+    <dimen name="button_weather_margin_start">15dp</dimen>
+    <dimen name="button_weather_margin_end">15dp</dimen>
+    <dimen name="button_weather_margin_top">10dp</dimen>
+    <dimen name="textView_header_margin_start">15dp</dimen>
+    <dimen name="textView_header_margin_top">15dp</dimen>
+    <dimen name="textView_description_margin_start">25dp</dimen>
+    <dimen name="textView_description_margin_top">5dp</dimen>
+    <dimen name="textView_description_textSize">16sp</dimen>
+    <dimen name="textView_header_linearLayout_margin_top">10dp</dimen>
+    <dimen name="textView_header_linearLayout_margin_start">15dp</dimen>
+</resources>

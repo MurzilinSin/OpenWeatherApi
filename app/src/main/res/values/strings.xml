@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">OpenWeatherZipCode</string>
+    <string name="hint_city_name">City Name</string>
+    <string name="empty_text">--- -- ---</string>
+    <string name="search_by_city_name">Search by City Name</string>
+    <string name="button_get_weather">Get Weather</string>
+    <string name="location">Location</string>
+    <string name="temperature">Temperature</string>
+    <string name="wind_speed">Wind Speed</string>
+    <string name="humidity">Humidity</string>
+    <string name="visibility">Visibility</string>
+    <string name="time_of_sunset">Time of sunset</string>
+    <string name="time_of_sunrise">Time of Sunrise</string>
+</resources>
